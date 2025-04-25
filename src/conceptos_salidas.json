@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "concepto": "Gastos operativos"
+  },
+  {
+    "id": 2,
+    "concepto": "Compras"
+  },
+  {
+    "id": 3,
+    "concepto": "Pago de servicios"
+  },
+  {
+    "id": 4,
+    "concepto": "Salarios"
+  },
+  {
+    "id": 5,
+    "concepto": "Otros"
+  }
+]

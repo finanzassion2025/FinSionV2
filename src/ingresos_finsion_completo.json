@@ -1,0 +1,31 @@
+[
+  {
+    "Matriz": "A1",
+    "Cotizante": "Pedro",
+    "Recibo": "001",
+    "C.C.": "123",
+    "Afiliado": "Pedro A.",
+    "Periodo": "2025-04",
+    "Fecha": "2025-04-25",
+    "Detalle": "Pago mensual",
+    "Cuenta": "12345678",
+    "Banco": "Bancolombia",
+    "Asesor": "Maria",
+    "Comisión": "50",
+    "EPS": "Sura",
+    "Valor": 1200000,
+    "ARL": "Colpatria",
+    "Valor.1": 20000,
+    "AFP": "Porvenir",
+    "Valor.2": 100000,
+    "CCF": "Comfama",
+    "Valor.3": 50000,
+    "FSP": "Fondo",
+    "Admon": "Admin",
+    "Intereses": "0",
+    "Total": 1400000,
+    "Total SS": 100000,
+    "Afiliación": "Sí",
+    "labora": "Sí"
+  }
+]
